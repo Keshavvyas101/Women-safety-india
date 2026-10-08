@@ -150,7 +150,7 @@ women_safety_india/
 ## 🚀 How to Reproduce This Project
 
 ### Step 1 — Clone the Repository
-git clone https://github.com/keshavvyas101/women_safety_india.git
+git clone https://github.com/Keshavvyas101/Women-safety-india.git
 
 cd women_safety_india
 
