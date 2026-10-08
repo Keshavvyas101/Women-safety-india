@@ -213,7 +213,7 @@ In a research publication, these would require formal sensitivity analysis and v
 ## 👤 Author
 
 **Keshav Vyas**
-- **Email:** [EMAIL_ADDRESS]
+- **Email:** keshavvyas101@gmail.com
 ## 📜 Data Sources & Citations
 - NCRB — National Crime Records Bureau Annual Reports (Crime in India 2021-2024)
 - BPRD — Bureau of Police Research and Development, Data on Police Organizations
